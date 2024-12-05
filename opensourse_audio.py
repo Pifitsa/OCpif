@@ -4,7 +4,9 @@ from tkinter import filedialog
 from pydub import AudioSegment
 import pydub.effects
 print("test")
+print("Лёша лох")
 def close_app():
+    ("bnlhuy8uyfgtcdiyhghfihgyiftg")
     root.destroy()
     print('На сегодня ты наредактировался, лох')
 
