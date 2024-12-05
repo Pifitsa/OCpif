@@ -3,7 +3,7 @@ from PIL import Image, ImageTk
 from tkinter import filedialog
 from pydub import AudioSegment
 import pydub.effects
-
+print("test")
 def close_app():
     root.destroy()
     print('На сегодня ты наредактировался, лох')
